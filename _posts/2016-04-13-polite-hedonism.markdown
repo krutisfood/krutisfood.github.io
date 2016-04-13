@@ -4,7 +4,7 @@ title:  "Polite Hedonism"
 date:   2016-04-13 22:00:33 +1000
 categories: polite hedonism life ethos
 ---
-My life ethos, & guiding principles: _"Polite Hedonism"_.
+My life ethos, & guiding principle: _"Polite Hedonism"_.
 
 _Caution:_ I am a bleak individual with a sunny disposition which I maintain by reminding myself how trivial all our concerns really are. Be prepared to tackle your own existential angst before reading any further...
 
