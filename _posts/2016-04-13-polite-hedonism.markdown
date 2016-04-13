@@ -30,7 +30,7 @@ And here we are!
 
 My continual anchor is the assumption that in 20 years it won't matter what my job title is now, in 100 years most of my life won't have mattered to anyone else except my decendants, even if I cure cancer (that I got from all that hedonism) it'll take a bit longer but eventually the heat death of the universe will ensure it was all in vain. Or some nuclear holocaust. Or zombies riding segways.  Which ever way you get the same result.
 
-So lighten up!  These concerns which are weighing you down are nothing in the scheme of things, they probably won't even matter tomorrow let alone after the heat death of the universe so buck up & enjoy!
+So lighten up!  These concerns which are weighing you down are nothing in the scheme of things, they probably won't even matter tomorrow let alone after the heat death of the universe.
 
-Have a nice day :)
+Relax, have a nice day :)
 
