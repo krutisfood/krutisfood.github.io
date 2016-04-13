@@ -17,13 +17,16 @@ I like the idea of respecting my fellow humans and love the idea of pay it forwa
 #### How on earth did you get to this point?!
 It started in the usual manner of pondering existence & wondering how to maximise my life.  Oh, I'd had a pretty serious stroke during my final years at uni too, thankfully it was a slow bleed so I finished final year exams, it just took some major centre of the brain style surgery & a few years to get back close enough to 100%.  The general cliche is about these things being life changing, I evaluated my life (like you're supposed to), did a lot of soul searching & generally decided I was happy with who I was.  And generally I still am. Though part of what I'm happy with is I'm always thinking about things I should be doing better.
 
-After this I read some self help books, blogs, ted talks, videos including (but not limited to):
+After this I read some self help books, blogs, ted talks, videos about motivation, avoiding materialism, including (but not limited to):
 
 * [People's top 5 regrets on their death beds](https://www.youtube.com/watch?v=RZXTMmYfOsc)
 * [Richard Dawkins' The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene)
 * [Daniel H. Pink's Drive](http://www.danpink.com/books/drive/)
 * [Malcolm Gladwell's Outliers](http://gladwell.com/outliers/)
 * [Stephen R. Covey's 7 Habits of Highly Successful People](https://www.stephencovey.com/7habits/7habits.php)
+* [Early Retirement Extreme](http://earlyretirementextreme.com/)
+* [Mr Money Moustache](http://www.mrmoneymustache.com/)
+* [The Minimalists](http://www.theminimalists.com/)
 
 Ok, seemed like a lot more books when I was thinking about it but all I really know is I've forgotten several, and there's a few more which aren't relevant here.
 
