@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Polite Hedonism - The only life ethos you need"
+title:  "Polite Hedonism - My life principles"
 date:   2016-04-13 22:00:33 +1000
 categories: polite hedonism life ethos
 ---
