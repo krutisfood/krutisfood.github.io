@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Polite Hedonism - My life principles"
-date:   2016-04-13 22:00:33 +1000
+date:   2016-04-17 22:00:33 +1000
 categories: polite hedonism life ethos
 ---
 My life ethos, & guiding principle: _"Polite Hedonism"_.
