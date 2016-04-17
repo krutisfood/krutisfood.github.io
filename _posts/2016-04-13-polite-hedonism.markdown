@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Polite Hedonism"
+title:  "Polite Hedonism - The only life ethos you need"
 date:   2016-04-13 22:00:33 +1000
 categories: polite hedonism life ethos
 ---
@@ -9,7 +9,7 @@ My life ethos, & guiding principle: _"Polite Hedonism"_.
 _Caution:_ I am a bleak individual with a sunny disposition which I maintain by reminding myself how trivial all our concerns really are. Be prepared to tackle your own existential angst before reading any further...
 
 #### What is polite hedonism?
-If you want a good definition of hedonism I'd suggest you head to the [wikipedia article](https://en.wikipedia.org/wiki/Hedonism), but to me at a high level hedonism is doing things you enjoy.
+If you want a good definition of hedonism I'd suggest you head to the [wikipedia article](https://en.wikipedia.org/wiki/Hedonism), but to me hedonism is simply doing things you enjoy.
 
 #### Why polite hedonism?
 I like the idea of respecting my fellow humans and love the idea of pay it forward. Ergo, living for pleasure in a nice way seems like a pretty good idea to me, and it should be more sustainable than general hedonism; I'm pretty sure normal hedonism would lead to liver failure, lung cancer, a whole bunch of STIs, or just someone refusing to put up with me any longer & putting me out of everybody else's misery.
