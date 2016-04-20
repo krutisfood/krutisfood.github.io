@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Polite Hedonism - My life principles"
+title:  "Polite Hedonism - The only life principles"
 date:   2016-04-17 22:00:33 +1000
 categories: polite hedonism life ethos
 ---
@@ -17,13 +17,13 @@ I like the idea of respecting my fellow humans and love the idea of pay it forwa
 #### How on earth did you get to this point?!
 It started in the usual manner of pondering existence & wondering how to maximise my life.  Oh, I'd had a pretty serious stroke during my final years at uni too, thankfully it was a slow bleed so I finished final year exams, it just took some major centre of the brain style surgery & a few years to get back close enough to 100%.  The general cliche is about these things being life changing, I evaluated my life (like you're supposed to), did a lot of soul searching & generally decided I was happy with who I was.  And generally I still am. Though part of what I'm happy with is I'm always thinking about things I should be doing better.
 
-After this I read some self help books, blogs, ted talks, videos about motivation, avoiding materialism, including (but not limited to, _note_, some of these are affiliate links to Amazon):
+After this I read some self help books, blogs, ted talks, videos about motivation, blogs about avoiding materialism to find greater meaning in life. Some of the more influential include (but not limited to, *disclosure*, some of these are affiliate links to Amazon):
 
 * [People's top 5 regrets on their death beds](https://www.youtube.com/watch?v=RZXTMmYfOsc)
 * [Richard Dawkins' The Selfish Gene: 40th Anniversary Edition (Oxford Landmark Science)][selfish-gene]
-* [Daniel H. Pink's Drive](http://www.danpink.com/books/drive/)
-* [Malcolm Gladwell's Outliers](http://gladwell.com/outliers/)
-* [Stephen R. Covey's 7 Habits of Highly Successful People](https://www.stephencovey.com/7habits/7habits.php)
+* [Daniel H. Pink's Drive: The Surprising Truth About What Motivates Us][drive]
+* [Malcolm Gladwell's Outliers: The Story of Success][outliers]
+* [Stephen R. Covey's The 7 Habits of Highly Effective People: Interactive Edition][7-habits]
 * [Early Retirement Extreme](http://earlyretirementextreme.com/)
 * [Mr Money Moustache](http://www.mrmoneymustache.com/)
 * [The Minimalists](http://www.theminimalists.com/)
@@ -40,3 +40,7 @@ So lighten up!  These concerns which are weighing you down are nothing in the sc
 Relax, have a nice day :)
 
 [selfish-gene]: http://www.amazon.com/gp/product/0198788606/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0198788606&linkCode=as2&tag=krutisfood-20&linkId=6MYWWACCYWQBC2Q4
+[drive]: http://www.amazon.com/gp/product/B004P1JDJO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004P1JDJO&linkCode=as2&tag=krutisfood-20&linkId=RKV6NYUMANKGB3SL
+[outliers]: http://www.amazon.com/gp/product/B001ANYDAO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001ANYDAO&linkCode=as2&tag=krutisfood-20&linkId=JDTUPNHJQR5352TY
+[7-habits]: http://www.amazon.com/gp/product/B01069X4H0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01069X4H0&linkCode=as2&tag=krutisfood-20&linkId=XBDQT7VBIOQ7JH2T
+
