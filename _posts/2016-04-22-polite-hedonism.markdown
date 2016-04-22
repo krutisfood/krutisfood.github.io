@@ -21,6 +21,7 @@ After this I read some self help books, blogs, ted talks, videos about motivatio
 
 * [People's top 5 regrets on their death beds](https://www.youtube.com/watch?v=RZXTMmYfOsc)
 * [Richard Dawkins' The Selfish Gene: 40th Anniversary Edition (Oxford Landmark Science)][selfish-gene]
+* [Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values][zen-motorcycles]
 * [Daniel H. Pink's Drive: The Surprising Truth About What Motivates Us][drive]
 * [Malcolm Gladwell's Outliers: The Story of Success][outliers]
 * [Stephen R. Covey's The 7 Habits of Highly Effective People: Interactive Edition][7-habits]
@@ -43,4 +44,4 @@ Relax, have a nice day :)
 [drive]: http://www.amazon.com/gp/product/B004P1JDJO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004P1JDJO&linkCode=as2&tag=krutisfood-20&linkId=RKV6NYUMANKGB3SL
 [outliers]: http://www.amazon.com/gp/product/B001ANYDAO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001ANYDAO&linkCode=as2&tag=krutisfood-20&linkId=JDTUPNHJQR5352TY
 [7-habits]: http://www.amazon.com/gp/product/B01069X4H0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01069X4H0&linkCode=as2&tag=krutisfood-20&linkId=XBDQT7VBIOQ7JH2T
-
+[zen-motorcycles]: http://www.amazon.com/gp/product/0060589469/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060589469&linkCode=as2&tag=krutisfood-20&linkId=D647EPH6A2KFW2J7
