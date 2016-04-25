@@ -5,3 +5,5 @@ Automation, no longer need to work
 Shift to share industry?
 * AirBNB
 * UBER - to be replaced by self driving cars?
+Social community housing, get people to build their own houses!
+  * what about mentally incapable, sick, those exploiting the system etc.
