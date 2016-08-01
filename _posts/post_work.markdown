@@ -7,3 +7,4 @@ Shift to share industry?
 * UBER - to be replaced by self driving cars?
 Social community housing, get people to build their own houses!
   * what about mentally incapable, sick, those exploiting the system etc.
+  * http://apo.org.au/resource/self-build-alternative-housing-procurement-remote-indigenous-communities
