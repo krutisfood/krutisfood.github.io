@@ -6,11 +6,7 @@ categories: gametheory game theory improvements management
 ---
 #### Why a "little healthy competition" among management peers might not get you the results you expect.
 
-> Notes:
-    * Hard to please bosses who seem to use more stick and less carrot,
-    * human bias to notice anecdotes over trends
-
-If you've worked for a company which has a layer or two of management there's a good chance you'll have found yourself wondering why everybody can't just work together towards a common goal!? Why does everyday life in an office look so much like a Dilbert comic strip? Apart from humans being imperfect[^1] with a lot of non-rational behaviours there are rational forces at work trying to game the system, sometimes intentionally, but often subconsciously. A darwinian result where those who are good at (office) politics are those who get the promotions, it's a beautiful demonstration of "survival of the fittest" evolutionary theory.
+If you've worked for a company which has a layer or two of management there's a good chance you'll have found yourself wondering why everybody can't just work together towards a common goal? Why does everyday life in an office look so much like a Dilbert comic strip? Apart from humans being imperfect[^1] with a lot of irrational behaviours there are also rational reason to try to game the system, sometimes intentionally, but often subconsciously. A darwinian result where those who are good at (office) politics are those who get the promotions, as Netflix say "The actual company values, as opposed to the nice-sounding values, are shown by who gets rewarded, promoted, or let go."
 
 Before we dig in, this blog doesn't require you to know about Game Theory or hold an PhD in maths, but if you'd like to know more watch the movie "A Beautiful Mind" for a vague overview.
 
