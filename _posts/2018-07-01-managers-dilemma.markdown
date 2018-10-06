@@ -77,11 +77,16 @@ Payoff matrix for Mary, John, where Undermining is punished or at least controll
 
 By being more aware of damaging negative behaviour and ensuring that the pay off for undermining is less than cooperating it ensures the only rational behaviour is to work together for the common good.
 
+## Before the whistle
+
+A great write up on how to make what you believe the values of your company become the values of the company, not just fluffy aspirational rubbish Dr. Cameron Sepah has some great pointers on ["Your Company Culture is Who You Hire, Fire, and Promote"][your-company-culture].
+
 
 [prisoners-dilemma]: https://en.wikipedia.org/wiki/Prisoner's_dilemma#Strategy_for_the_prisoner's_dilemma
 [you-are-not-so-smart]: https://www.goodreads.com/book/show/11709037-you-are-not-so-smart
 [wikipedia]: https://simple.wikipedia.org/wiki/Game_theory
 [cherry-picking-bias]: https://en.wikipedia.org/wiki/Cherry_picking
+[your-company-culture]: https://medium.com/s/company-culture/your-companys-culture-is-who-you-hire-fire-and-promote-c69f84902983
 
 [^1]: For a great pop-sci styled book on bias check out David McRaney's "You are not so smart"
 
