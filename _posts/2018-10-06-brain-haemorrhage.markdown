@@ -4,6 +4,7 @@ title:  "The time I had a Stroke at 23"
 date:   2018-10-10 18:00:00 +1000
 categories: brain haemorrhage stroke krut about deep cavernoma me
 background: /images/banner.png
+visible: 1
 ---
 
 # The Story of my Stroke
