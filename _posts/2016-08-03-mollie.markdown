@@ -3,6 +3,7 @@ layout: post
 title:  "A life worth emulating"
 date:   2016-08-03 18:00:33 +1000
 categories: polite hedonism life ethos
+background: '/images/banner.png'
 ---
 
 # Mollie

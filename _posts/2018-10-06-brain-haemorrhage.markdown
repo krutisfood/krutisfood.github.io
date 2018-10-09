@@ -3,11 +3,12 @@ layout: page
 title:  "The time I had a Stroke at 23"
 date:   2018-10-10 18:00:00 +1000
 categories: brain haemorrhage stroke krut about deep cavernoma me
+background: /images/banner.png
 ---
 
 # The Story of my Stroke
 
-The story begins.
+## The story begins.
 Difficulty swallowing, wash down the steak with house red wine :)
 Assuming this is probably just stress of applying for my first professional job while finishing uni and working full time doing data entry.
 Full time job data entry, part time job picking vegetables, finishing university, interviewing for my first professional job, gf (something I didn't have much experience with!), uncontrollable fits of laughter where I would literally become so short of breath unable to breath that I nearly passed out.
@@ -18,21 +19,22 @@ I've no explanation for why my right leg uncontrollably shakes sometimes, I have
 Trying to jog across the road to get out of the way of an oncoming car, also struggling to lift my motorbike off the kick stand. Probably should start driving until the symptoms clear up.
 Driving the car I took to covering one eye when-ever I had to navigate between two objects to ensure my worsening double vision doesn't cause me to hit anything (or anyone).
 
+## CT Brain Scan (to make sure I have one)
 CT Scan, "Hold still, don't move"
 Me: "Aaaaah-chooo!"
 Immediately the scans stopped, I was placed in a wheelchair, given two sudafed to reduce risk of allergic reaction, then left sitting around for half an hour to make sure I was still alive.
 
+The next day walking back up to the house after moving a bunch of wood around and lighting a bon fire on our hobby farm...
 Al: "Are you ok?"
 Me: "Fine, just have to tie my shoes!" I'm lying, really I'm struggling to make my body walk up the hill, out of breath at the effort of dragging the unresponsive left side of my body.
 Al: "You know we could have been on a paid holiday at the beach."
-The next day:
-Dr: "Pack an overnight bag when you come in"
 
-# Experience
+The next day the Dr rang to say "Pack an overnight bag when you come in". Not exactly a call you want to hear.
+
 ## Emergency
 We headed straight down to John Hunter Emergency, registered at the desk.
 After 2 full hours in the ER waiting room I was finally called up.
-Triage Nurse: "So, what's wrong with you?"
+Triage Nurse in a surly voice: "So, what's wrong with you?"
 Me: "I had a brain haemorrhage"
 Nurse: "What makes you think that?"
 Me: "My Dr told me...?"
@@ -71,12 +73,12 @@ Another four hour Operation later, one week of recovery in hospital and I was on
 Nearly the whole time I was in hospital I was supported by my girlfriend (now wife), and mum who lived with my wonderful great aunty Molly who had never even met my gf! Unfortunately I was rubbish company, with my new double vision and surprising headache I unable to focus on anything, not even able to watch TV.
 Post Op one OT session then kicked out.
 
-Centrelink - Pre Op
+## Centrelink - Pre Op
 "What's wrong with you then?!"
 "I had a stroke"
 "Oh... come this way..."
 
-Centrelink - Post Op
+## Centrelink - Post Op
 Staples in head, large bandage, right eye swollen shut, left eye blood shot, walking slowly with a heavy limp.
 Consultant, not looking up: "How are you today?"
 Me, wry grin: "I've been better"
@@ -85,6 +87,7 @@ Consultant looks up: "Oh..."
 Day of the devil (6/6/06) I had squint surgery, went to great pains to re-assure people my horribly blood shot eyes were not anything satanic.
 Put a strong hand on my forhead, _yank_, _yank_, the world jiggling naseatingly from side to side.
 
-I have long wondered if there is value in telling the story of my brain haemorrhage, particularly when I have recovered to the point I'm able to operate normally in society when many around were not so lucky. Survivor's guilt is real even though the minor disabilities are constant reminders. Since reading "reinventing emma" by Emma Gee I feel perhaps it's worth giving a story of hope for those questioning whether they should go through with a craniotomy to rectify and AVM, Cavernoma or similar deep in the brain stem.
+I have long wondered if there is value in telling the story of my brain haemorrhage, particularly when I have recovered to the point I'm able to operate normally in society when many around were not so lucky. Survivor's guilt is real even though the minor disabilities are constant reminders. Since reading ["reinventing emma" by Emma Gee][reinventing-emma] I feel perhaps it's worth giving a story of hope for those questioning whether they should go through with a craniotomy to rectify and AVM, Cavernoma or similar deep in the brain stem.
 
-[http://emma-gee.com/the-book/]
+[reinventing-emma]: http://emma-gee.com/the-book/
+[deep-cavernoma]: http://www.avmsurgeon.com/deepcavernomas.html
