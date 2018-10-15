@@ -8,18 +8,28 @@ background: /images/banner.png
 
 # The Story of my Stroke
 
-## The story begins.
-Difficulty swallowing, wash down the steak with house red wine :)
-Assuming this is probably just stress of applying for my first professional job while finishing uni and working full time doing data entry.
-Full time job data entry, part time job picking vegetables, finishing university, interviewing for my first professional job, gf (something I didn't have much experience with!), uncontrollable fits of laughter where I would literally become so short of breath unable to breath that I nearly passed out.
-Sister moved to Adelaide for uni, brother moved to Newcastle for work, parents marriage ended, Dad suffered a breakdown.
+## A long time ago in a galaxy far, far away...
+I've just turned 23, I've got a steady girlfriend (unusual for an introvert studying maths and IT who would probably be diagnosed autistic these days), I'm working full time data entry, part time vegetable farming while finishing final year uni, somehow managing to fit in swimming laps, cycling, jogging, and going to bands at times drinking more alcohol than anybody should. Generally I'm as fit and health as I could possibly be, I am invincible!
 
-It's probably just stress causing the gag reflex, hay fever causing the static in my ears, RSI causing the tingling in right hand and right foot,
-I've no explanation for why my right leg uncontrollably shakes sometimes, I have started wetting my pants a little before I can get to the toilet, the weakness I've only just noticed on my left side giving me a limp, slurred speech, double vision. To say nothing of the uncontrollable laughing fits...
-Trying to jog across the road to get out of the way of an oncoming car, also struggling to lift my motorbike off the kick stand. Probably should start driving until the symptoms clear up.
-Driving the car I took to covering one eye when-ever I had to navigate between two objects to ensure my worsening double vision doesn't cause me to hit anything (or anyone).
+Which is why I thought nothing of a little difficulty swallowing food, assuming it was just stress of interviewing for my first job as a professional. So I started washing down my food with a bit of house red wine. Problem, Solved.
 
-## CT Brain Scan (to make sure I have one)
+Then when a few other weird things started happening with my body I explained them away too, static in my ears while lying in the quiet bed at night? Maybe the water bed has a slow leak. Or maybe it's just the hayfever, it is spring after all.
+Pins and needles in my right hand and foot? Must be RSI from the data entry job. Yes I know that I don't type with my feet but let's not bring logic into this too quickly :-)
+Struggling to get to the toilet in time to pee? Hrm. Don't worry about it, I'm sure it's just a temporary infection or something.
+
+Then I started struggling to lift my motorbike off the kick stand, gee this head cold thing is really starting to knock me about, deciding I'll play it safe I started driving the old car I bought for $100 to work instead. Another problem, solved like a boss!
+
+Less than a week later I started getting some double vision. This time I decided should go see the doc some time in the next couple of days; the good news was they gave me some drops which should help clear up the balance issues I've started having! Life really is that easy sometimes.
+
+Another week goes by and I can't go any faster than a modest walk, my left leg simply doesn't keep up. I can't lift my left arm to my head, it just stops when it gets level with my shoulder, I've started covering one eye when I need to drive between two cars because the constant double vision makes it a bit hard to pick gaps; it was time to head back to the GP, I might need some stronger nasal spray!
+
+My doctor suggests I go get a CT Scan tomorrow "just to rule a few things out"; I was surprised we were going to bother, even though I've got no logical explanation for why my right leg uncontrollably shakes sometimes, I am wetting my pants a little before I can get to the toilet each time, I've developed a noticeable limp, starting to slur my speech, have double vision, and I've started having laughing fits where I am nearly passing out from lack of oxygen. Of course the static in my ears, pins and needles in hands and feet are entirely explained.
+
+Looking back, well I'm assuming you can guess where this story is heading given you've probably read the title :-)
+
+## Brain Scan
+My experience of having a brain scan, as my family and friends pointed out was to make sure I had one, thanks everybody :P
+
 CT Scan, "Hold still, don't move"
 Me: "Aaaaah-chooo!"
 Immediately the scans stopped, I was placed in a wheelchair, given two sudafed to reduce risk of allergic reaction, then left sitting around for half an hour to make sure I was still alive.
@@ -30,6 +40,8 @@ Me: "Fine, just have to tie my shoes!" I'm lying, really I'm struggling to make 
 Al: "You know we could have been on a paid holiday at the beach."
 
 The next day the Dr rang to say "Pack an overnight bag when you come in". Not exactly a call you want to hear.
+
+Sister moved to Adelaide for uni, brother moved to Newcastle for work, parents marriage ended, Dad suffered a breakdown.
 
 ## Emergency
 We headed straight down to John Hunter Emergency, registered at the desk.
