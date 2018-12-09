@@ -9,9 +9,9 @@ background: /images/banner.png
 # The Story of my Stroke
 
 ## A long time ago in a galaxy far, far away...
-I've just turned 23, I've got a steady girlfriend (unusual for an introvert studying maths and IT who would probably be diagnosed autistic these days), I'm working full time data entry, part time vegetable farming while finishing final year uni, somehow managing to fit in swimming laps, cycling, jogging, and going to bands at times drinking more alcohol than anybody should. Generally I'm as fit and health as I could possibly be, I am invincible!
+I've just turned 23, got a steady girlfriend (quite a rarity for an introvert studying maths and IT), I'm working full time data entry, part time vegetable farming while finishing final year uni, somehow managing to fit in swimming laps, cycling, jogging, and going to bands at times drinking more alcohol than anybody should. Generally I'm as fit and health as I could possibly be, I am invincible!
 
-Which is why I thought nothing of a little difficulty swallowing food, assuming it was just stress of interviewing for my first job as a professional. So I started washing down my food with a bit of house red wine. Problem, Solved.
+Which is why I thought nothing of a little difficulty swallowing food, it is probably just stress of going to interviews for my first job as a professional. So I started washing down my food with a bit of cheap red wine. Problem, Solved.
 
 Then when a few other weird things started happening with my body I explained them away too, static in my ears while lying in the quiet bed at night? Maybe the water bed has a slow leak. Or maybe it's just the hayfever, it is spring after all.
 Pins and needles in my right hand and foot? Must be RSI from the data entry job. Yes I know that I don't type with my feet but let's not bring logic into this too quickly :-)
