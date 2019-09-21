@@ -1,0 +1,48 @@
+---
+layout: page
+title:  "Should I keep my child back from Kindy?"
+date:   2019-09-30 18:00:00 +1000
+categories: kindy kindergarten school
+background: /images/banner.png
+---
+
+# Is your child too young to start school?
+
+## What's this about?
+
+In NSW, Australia, there is "conventional wisdom" provided by most educators I have encountered which says if you have the option based on age to send a child to school or not you
+should keep them in Day Care/Preschool for the extra year because there is overwhelming evidence that it is in their best interests.
+
+Given this is conventional wisdom for something as important as my child's ongoing health and wellbeing I decided to do some research of my own.
+There are a number of conflicts of interest such as Day Care fees.
+Teachers are generally likely to be people who value general education and inter-social interactions. This can lead to a system not designed with introverts in mind.
+
+
+## Should we send our munchkin to school as a 5yo?
+
+Too Young to Leave The Nest? http://ftp.iza.org/dp3452.pdf
+I read this paper as telling us that being older is generally an advantage, there is a strong link between age and test scores.
+Conversely also tells us that children who start school earlier do better at school for their age than peers who started later,
+assumedly this is simply because they have been at school longer.
+If I've read it right your daughter is less likely to get pregnant if she goes to school at a younger age.
+Also children who start earlier will earn more money initially, it would seem due to entering the work force at a younger age.
+How-ever this early mover advantage evens out around 30.
+*Rating*: Neutral
+
+https://www.nber.org/papers/w13969
+
+"Does the Age that Children Start Kindergarten Matter? Evidence of Long-Term Educational and Social Outcomes" https://www.jstor.org/stable/3699530?seq=1#page_scan_tab_contents
+
+"Age of Entry to Kindergarten and Children’s Academic Achievement and Socioemotional Development" https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2140009/
+Age provides minimal impact compared to all other factors, age at school start should be considered but it's only small piece of the puzzle.
+*Rating*: Neutral
+
+
+https://www.hche.uni-hamburg.de/forschung/publikationen/rp-bahrs--schumann-2016-webversion-rp13-2016.pdf
+*Rating*: Neutral
+
+Con - Against
+Compares across cultures, lots of confounding impacts
+http://theconversation.com/hard-evidence-at-what-age-are-children-ready-for-school-29005
+*Rating*: Starting School older is better
+
